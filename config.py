@@ -17,9 +17,9 @@ class Settings:
 settings = Settings()
 settings.POSTGRES_HOST = 'db'  
 settings.POSTGRES_PORT = 5432
-settings.POSTGRES_PASSWORD = 'root'
+settings.POSTGRES_PASSWORD = 'njKPyUTwLl6adBIT38aCAlpG8M695Hnq'
 settings.POSTGRES_USER = 'root' 
-settings.POSTGRES_DB = 'dbname'
+settings.POSTGRES_DB = 'dbname_jnpp'
 
 
 settings.POSTGRES_DATABASE_URLA = f"postgresql+asyncpg:" \

@@ -13,9 +13,10 @@ services:
     restart: always
     shm_size: 128mb
     environment:
+      POSTGRES_HOST: dpg-cpl72h7109ks73dn8ge0-a
       POSTGRES_USER: root
-      POSTGRES_PASSWORD: root
-      POSTGRES_DB: dbname
+      POSTGRES_PASSWORD: njKPyUTwLl6adBIT38aCAlpG8M695Hnq
+      POSTGRES_DB: dbname_jnpp
     ports:
       - 5432:5432
 

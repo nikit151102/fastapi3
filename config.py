@@ -15,7 +15,7 @@ class Settings:
 
 
 settings = Settings()
-settings.POSTGRES_HOST = 'db'  
+settings.POSTGRES_HOST = 'dpg-cpl72h7109ks73dn8ge0-a'  
 settings.POSTGRES_PORT = 5432
 settings.POSTGRES_PASSWORD = 'njKPyUTwLl6adBIT38aCAlpG8M695Hnq'
 settings.POSTGRES_USER = 'root' 
